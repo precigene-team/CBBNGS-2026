@@ -7,6 +7,7 @@
    - Raw Data processing (Quality control, trimming & filtering)
    - Sequence Alignment (Mapping)
    - Practice [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xdS51Ow4rcv3oT_N3q4U8kYvM8fwO6Yz?usp=sharing)
+   - Link to processed data: [Data](https://drive.google.com/drive/folders/1HF1Qe3dRG9nH-SwnVl89105MiVmtqV4O?usp=drive_link)
 3. Downstream Analysis [Slide&Script](03_Downstream/)
    - Variant calling and Filtering [Video](https://www.youtube.com/watch?v=2-Fzd0yiv0M&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=6)
    - Variant annotation [Video](https://www.youtube.com/watch?v=Q7JWzrBJc48&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=8)
