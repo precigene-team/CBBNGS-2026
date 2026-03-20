@@ -1,4 +1,4 @@
-# CBB's NGS course 2024 (University of Science HCM)
+# CBB's NGS course 2026 (University of Science HCM)
 
 ## Content
 
